@@ -25,7 +25,7 @@ Version:    1.1.0
 /** GLOBAL CLASSES **/
 
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Cairo', sans-serif;
     color: #535353;
 }
 
@@ -39,7 +39,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Cairo', sans-serif;
 }
 
 /** Login 1 start **/
@@ -104,7 +104,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     padding: 1px 20px;
     z-index: 1;
     position: relative;
-    font-family: Open Sans;
+    font-family: 'Cairo', sans-serif;
     font-size: 13px;
     color: #717171;
     text-transform: capitalize;
@@ -159,7 +159,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     margin: 0 0 25px;
     font-size: 20px;
     font-weight: 400;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Cairo', sans-serif;
     color: #505050;
     text-align: center;
 }
@@ -207,7 +207,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     letter-spacing: 1px;
     font-size: 15px;
     font-weight: 400;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Cairo', sans-serif;
     border-radius: 50px;
 }
 
@@ -415,7 +415,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     padding: 1px 20px;
     z-index: 1;
     position: relative;
-    font-family: Open Sans;
+    font-family: 'Cairo', sans-serif;
     font-size: 13px;
     color: #717171;
     text-transform: capitalize;
@@ -473,7 +473,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     margin: 0 0 25px;
     font-size: 20px;
     font-weight: 400;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Cairo', sans-serif;
     color: #505050;
     text-align: center;
 }
@@ -513,7 +513,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     letter-spacing: 1px;
     font-size: 15px;
     font-weight: 400;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Cairo', sans-serif;
     border-radius: 3px;
 }
 
@@ -716,7 +716,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     margin: 0 0 40px;
     font-size: 22px;
     font-weight: 600;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Cairo', sans-serif;
     color: #505050;
     text-align: center;
 }
@@ -1340,7 +1340,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     margin: 0 0 25px;
     font-size: 25px;
     font-weight: 400;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Cairo', sans-serif;
     color: #fff;
 }
 
@@ -1385,7 +1385,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     padding: 13px 50px 15px 50px;
     font-size: 15px;
     font-weight: 400;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Cairo', sans-serif;
     border-radius: 3px;
 }
 
@@ -1442,7 +1442,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     font-size: 13px;
     float: left;
     background: transparent;
-    letter-spacing: 1px;
+    
     font-weight: 600;
     text-align: center;
     text-decoration: none;
